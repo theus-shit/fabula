@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
 body{
     font-size: 20px;
     line-height: 1.5;
     background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 img{
